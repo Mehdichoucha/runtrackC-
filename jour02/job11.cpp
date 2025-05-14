@@ -9,7 +9,7 @@ int main() {
     cin >> n;
 
     if (n <= 0) {
-        cout << "Ne fonctionne pas pour les entiers négatifs et 0" << endl;
+        cout << "Ne fonctionne pas pour les entiers négatifs et 0";
         return 1;
     }
 
